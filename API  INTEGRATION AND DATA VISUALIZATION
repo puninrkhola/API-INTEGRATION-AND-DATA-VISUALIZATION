@@ -1,0 +1,17 @@
+# API  INTEGRATION AND DATA VISUALIZATION
+* COMPANY*: CODTECH IT SOLUTIONS
+*NAME* : PUNI NR KHOLA
+*INTERNSHIP ID* :  CT08RRS
+*DOMAIN* : PYTHON PROGRAMMING
+*DURATION* : 4 WEEEKS 
+*MENTOR* :  NEELA SANTOSH
+DESCRIPTION : 1. **API Integration:** Used OpenWeatherMap API to fetch real-time weather data.  
+2. **Programming Language:** Implemented using **Python** for data retrieval and visualization.  
+3. **Libraries Used:** Utilized **requests** for API calls and **Plotly** for interactive visualizations.  
+4. **Development Environment:** Coded and executed in **VS Code** with Python installed.  
+5. **Data Processing:** Extracted temperature, humidity, wind speed, and cloud coverage from JSON response.  
+6. **Visualization:** Used **Plotly** to create bar charts, pie charts, and interactive plots.  
+7. **Installation:** Installed required packages using `pip install requests plotly`.  
+8. **File Execution:** Saved the script as `weather_visualization.py` and ran it in VS Code terminal.  
+9. **Output:** Generated interactive weather charts displaying real-time city weather conditions.  
+10. **Use Case:** Helps in real-time weather analysis, forecasting, and visualization for better insights. 🚀📊
